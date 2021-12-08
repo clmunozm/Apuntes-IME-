@@ -20,3 +20,5 @@ https://cran.r-project.org/manuals.html
 https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/read.table
 https://doc.arcgis.com/es/insights/latest/create/scatter-plot.htm
 https://docs.tibco.com/pub/spotfire_web_player/6.0.0-november-2013/es-ES/WebHelp/GUID-780960FA-1DCE-4E59-8EB7-54F7144DB362.html
+
+https://onlinestatbook.com/stat_sim/sampling_dist/index.html
